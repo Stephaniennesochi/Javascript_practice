@@ -2,6 +2,7 @@
 document.write("Hello World!");
 console.log("Hello World!");
 
+document.write(" I'm currently learning Javascript")
 var a;
 console.log( typeof a)
 
@@ -42,7 +43,6 @@ console.log(a)
 console.log(typeof a)
 
 
-window.alert("Welcome to my page")
 
 // This is a single line comment //
 
