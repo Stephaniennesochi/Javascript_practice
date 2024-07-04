@@ -30,6 +30,10 @@ var a = new Array("a", "b", "c", "d", "e", "f", "g");
 console.log( typeof a)
 console.log( a.length)
 
+var b = new Array("i", "ii", "iii", "iv", "v", "vi", "vii");
+console.log( typeof b)
+console.log( b.length)
+
 var a = 2 + 5
 console.log(a)
 console.log(typeof a)
