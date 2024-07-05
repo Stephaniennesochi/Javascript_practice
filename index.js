@@ -50,6 +50,10 @@ var p;
 p = ("I'm Stephanie, " + 20 +"years old," + " my Reg no is GOU/U21/CSC/690")
 console.log(p)
 
+let colors = ["White ", "Black" , "Red" ,"Green", "Orange", "Purple", "Yellow", "Blue"]
+console.log(colors)
+console.log(colors.length)
+
 var f = 24;
 age = f + 6
 console.log(age)
