@@ -46,8 +46,13 @@ var a = "hi" + " steph"
 console.log(a)
 console.log(typeof a)
 
+var p;
+p = ("I'm Stephanie, " + 20 +"years old," + " my Reg no is GOU/U21/CSC/690")
+console.log(p)
 
-
+var f = 24;
+age = f + 6
+console.log(age)
 // This is a single line comment //
 
 /* This 
