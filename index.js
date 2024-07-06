@@ -22,6 +22,10 @@ var a = ["Math", "Math", "Math", "Math", "Math"];
 console.log( typeof a)
 console.log( a.length)
 
+var p = ["English", "French", "Igbo", "Spanish", "German", "Italian"]
+console.log( typeof p)
+console.log( p.length)
+
 var a = [3,4,5,6,7]
 console.log( typeof a)
 console.log( a.length)
