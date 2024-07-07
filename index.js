@@ -95,6 +95,13 @@ var f;
 b = 20
 f = b + b;
 console.log(f)
+
+var p;
+k = 20;
+k++;
+p = k + k;
+console.log(p)
+
 // This is a single line comment //
 
 /* This 
