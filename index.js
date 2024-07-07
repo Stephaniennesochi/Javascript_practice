@@ -42,6 +42,10 @@ var a = 2 + 5
 console.log(a)
 console.log(typeof a)
 
+var p;
+p = 24 + "24"
+console.log(p)
+
 var a = "Stephanie" + 24
 console.log(a)
 console.log(typeof a)
