@@ -51,7 +51,19 @@ b = 15 + 15;
 console.log(b)
 
 var b;
-b = 30 + 20;
+b = 30 - 20;
+console.log(b)
+
+var b;
+b = 30 / 15;
+console.log(b)
+
+var b;
+b = 50 * 2;
+console.log(b)
+
+var b =30;
+b++;
 console.log(b)
 
 var a = "Stephanie" + 24
