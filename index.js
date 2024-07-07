@@ -85,6 +85,16 @@ console.log(colors.length)
 var f = 24;
 age = f + 6
 console.log(age)
+
+var f = age + 15;
+f = 12;
+age = f++
+console.log(f)
+
+var f;
+b = 20
+f = b + b;
+console.log(f)
 // This is a single line comment //
 
 /* This 
