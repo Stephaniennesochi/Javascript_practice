@@ -46,6 +46,14 @@ var p;
 p = 24 + "24"
 console.log(p)
 
+var b;
+b = 15 + 15;
+console.log(b)
+
+var b;
+b = 30 + 20;
+console.log(b)
+
 var a = "Stephanie" + 24
 console.log(a)
 console.log(typeof a)
