@@ -102,6 +102,14 @@ k++;
 p = k + k;
 console.log(p)
 
+var f = 55 * 5 / 5 + 5
+console.log(f)
+
+var p = 4;
+p++;
+console.log(p)
+
+
 // This is a single line comment //
 
 /* This 
