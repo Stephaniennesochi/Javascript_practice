@@ -109,6 +109,19 @@ var p = 4;
 p++;
 console.log(p)
 
+var f = 6*6;
+p = f + 7 - 9;
+console.log(p)
+
+var b = 5-5+1;
+console.log(b)
+
+var d;
+var h;
+d=25;
+h=35
+k= d + h + 10;
+console.log(k)
 
 // This is a single line comment //
 
