@@ -128,6 +128,11 @@ w = 10, k = 3, r = 55;
 d = w+k-r
 console.log(d)
 
+var h;
+h= 34;
+r = h + 124;
+console.log(r)
+
 
 // This is a single line comment //
 
