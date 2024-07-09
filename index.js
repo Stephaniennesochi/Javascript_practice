@@ -123,6 +123,12 @@ h=35
 k= d + h + 10;
 console.log(k)
 
+var w, k, r;
+w = 10, k = 3, r = 55;
+d = w+k-r
+console.log(d)
+
+
 // This is a single line comment //
 
 /* This 
