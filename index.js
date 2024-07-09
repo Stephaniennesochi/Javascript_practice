@@ -133,6 +133,8 @@ h= 34;
 r = h + 124;
 console.log(r)
 
+console.log("I love God")
+console.log("My Favourite meal is Spagetti")
 
 // This is a single line comment //
 
