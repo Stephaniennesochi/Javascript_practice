@@ -139,6 +139,8 @@ console.log("My Favourite meal is Spagetti")
 
 var animals =["ram", "goat", "pig", "cow", "monkey", "chicken"]
 console.log(animals)
+console.log(typeof animals)
+console.log(animals.length)
 
 // This is a single line comment //
 
