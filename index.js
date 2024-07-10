@@ -136,6 +136,10 @@ console.log(r)
 console.log("I love God")
 console.log("My Favourite meal is Spagetti")
 
+
+var animals =["ram", "goat", "pig", "cow", "monkey", "chicken"]
+console.log(animals)
+
 // This is a single line comment //
 
 /* This 
