@@ -142,6 +142,9 @@ console.log(animals)
 console.log(typeof animals)
 console.log(animals.length)
 
+console.log('Javascript is a scripting language')
+console.log("Javascript framework(React) is available")
+
 // This is a single line comment //
 
 /* This 
