@@ -133,6 +133,10 @@ h= 34;
 r = h + 124;
 console.log(r)
 
+var r = 24;
+r++;
+console.log(r)
+
 console.log("I love God")
 console.log("My Favourite meal is Spagetti")
 
