@@ -149,6 +149,11 @@ console.log(animals.length)
 console.log('Javascript is a scripting language')
 console.log("Javascript framework(React) is available")
 
+var f = 200 + 150;
+f = 20;
+f++;
+console.log(f)
+
 // This is a single line comment //
 
 /* This 
