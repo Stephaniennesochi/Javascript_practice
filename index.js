@@ -154,6 +154,8 @@ f = 20;
 f++;
 console.log(f)
 
+console.log("My Project")
+
 // This is a single line comment //
 
 /* This 
