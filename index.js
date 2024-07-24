@@ -1,4 +1,3 @@
-
 document.write("Hello World!");
 console.log("Hello World!");
 
@@ -45,6 +44,10 @@ console.log(typeof a)
 var p;
 p = 24 + "24"
 console.log(p)
+
+var f;
+f = 64 + "24"
+console.log(f)
 
 var b;
 b = 15 + 15;
@@ -163,3 +166,65 @@ console.log("My Project")
     a Multi-line 
     comment 
 */
+
+var strName ="10"
+console.log(parseInt(strName))
+
+var strName2 = "11.9"
+console.log(parseInt(strName2))
+
+var strName3 = "Banana"
+console.log(parseInt(strName3))
+
+var num = 100
+console.log(toString(num))
+
+var num1 = 100.99999
+console.log(toString(num1))
+
+var floatName ="12"
+console.log(parseFloat(floatName))
+
+var floatName1 ="13.3"
+console.log(parseFloat(floatName1))
+
+var num_1 = 189.94969
+console.log(num_1.toFixed(2))
+
+var num_1 = 189.94969
+console.log(num_1.toFixed())
+
+var num_1 = 10
+console.log(num_1.toFixed(2))
+
+
+var num_1 = 10
+console.log(num_1.toFixed(2))
+
+
+console.log(0/0)
+console.log(0/5)
+console.log("a" * 3)
+console.log(3 * "a")
+console.log("b" + 4)
+console.log(4 + "b")
+console.log("c" - 5)
+console.log(5 - "c")
+
+var mStr = "This is my test string to practice the JavaScript string function concepts.This is gonna be fun."
+console.log(mStr.length)
+
+var myFirstStr = "This is my test string to practice the JavaScript string function concepts."
+console.log(myFirstStr.length)
+console.log(myFirstStr.indexOf("This"))
+console.log(myFirstStr.lastIndexOf("This"))
+
+var mySecondStr ="This is gonna be fun."
+console.log(mySecondStr.length)
+
+console.log(mStr.slice(0, 75))
+console.log(mStr.slice(8))
+console.log(mStr.slice(-7))
+console.log(mStr.substring(0, 15))
+console.log(mStr.substring(-0, 15))
+console.log(mStr.substring(0))
