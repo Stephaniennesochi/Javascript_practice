@@ -380,19 +380,29 @@ console.log(a + " " + b + " " + c);
 
 var x = 0;
 x++;
+console.log(x)
 x = x + 1;
+console.log(x)
 x += 1;
+console.log(x)
 
 var p = 1;
 p--;
+console.log(p)
 p = p - 1;
+console.log(p)
 p -= 1;
+console.log(p)
+
 
 var num = 100;
 num += 5 * 10 / 2;
+console.log(num)
 
 var num = 100;
 num *= 2 * 10 / 5;
+console.log(num)
 
 var num = 100;
 num /= 2 * 8 - 15;
+console.log(num)
