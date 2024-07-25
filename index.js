@@ -300,3 +300,99 @@ if (numberOfItemPurchased < 10){
 else {
     console.log( discount * cost )
 }
+
+var monthNumber = 2;
+
+switch(monthNumber){
+    case 1:
+        console.log("January")
+        console.log("Total number of days = 31")
+        break;
+    case 2:
+        console.log("Feburary")
+        console.log("Total number of days = 28")
+        break;
+    case 3: 
+        console.log("March")
+        console.log("Total number of days = 31")
+        break;
+    case 4:
+        console.log("April")
+        console.log("Total number of days = 30")
+        break;
+    case 5:
+        console.log("May")
+        console.log("Total number of days = 31")
+        break;
+    case 6: 
+        console.log("June")
+        console.log("Total number of days = 30")
+        break;
+    case 7:
+        console.log("July")
+        console.log("Total number of days = 31")
+        break;
+    case 8:
+        console.log("August")
+        console.log("Total number of days = 31")
+        break;
+    case 9: 
+        console.log("September")
+        console.log("Total number of days = 30")
+        break;
+    case 10:
+        console.log("October")
+        console.log("Total number of days = 31")
+        break;
+    case 11:
+        console.log("November")
+        console.log("Total number of days = 30")
+        break;
+    case 12: 
+        console.log("December")
+        console.log("Total number of days = 31")
+        break;
+}
+
+var num1 = 1 + 5;
+var num2 = num1 / 4;
+var num3 = 1 + 5;
+var num4 = num3 / 4;
+console.log(num2 + " " + num4);
+
+var a = 1;
+var b = 2;
+var c;
+var d;
+c = ++b; 
+console.log(c)
+console.log(b)
+d = a++; 
+console.log(a)
+console.log(d)
+c++; 
+console.log(c)
+b++; 
+console.log(b)
+++a; 
+console.log(a)
+console.log(a + " " + b + " " + c);
+
+var x = 0;
+x++;
+x = x + 1;
+x += 1;
+
+var p = 1;
+p--;
+p = p - 1;
+p -= 1;
+
+var num = 100;
+num += 5 * 10 / 2;
+
+var num = 100;
+num *= 2 * 10 / 5;
+
+var num = 100;
+num /= 2 * 8 - 15;
