@@ -228,3 +228,75 @@ console.log(mStr.slice(-7))
 console.log(mStr.substring(0, 15))
 console.log(mStr.substring(-0, 15))
 console.log(mStr.substring(0))
+
+
+var str1 = "Today is "
+var str2 = "A beautiful day "
+var str3 = "In Hawaii "
+
+console.log(str1.concat(str2.toLowerCase().concat(str3.toLowerCase())) )
+
+var mystr = "Mo, Tu, Wed, Thu, Fri, Sat, Sun"
+console.log(mystr.toUpperCase().split("['']"))
+
+var mNum;
+console.log(mNum)
+
+var mNum = null
+console.log(mNum)
+
+console.log(undefined == null)
+console.log(undefined === null)
+
+var length = 400;
+var breadth = 200;
+
+if (length === breadth){
+    console.log("This is a square")
+} else{
+    console.log("This is a rectangle")
+}
+
+var num1=8, num2=24, num3=6;
+
+if (num1 > num2){
+    console.log(num1)
+} 
+else if( num2 > num3){
+    console.log(num2)
+}
+else {
+    console.log(num3)
+}
+
+var enteredMarks = 80
+
+if(enteredMarks < 25){
+    console.log("Grade : F") 
+} else if (enteredMarks >= 25 && enteredMarks  < 45){
+    console.log("Grade : E")
+}
+else if (enteredMarks >= 45 && enteredMarks < 50){
+    console.log("Grade : D")
+}
+else if (enteredMarks >= 50 && enteredMarks  < 60){
+    console.log("Grade : C")
+}
+else if (enteredMarks >= 60 && enteredMarks  < 80){
+    console.log("Grade : B")
+}
+else if (enteredMarks >= 80){
+    console.log("Grade : A")
+}
+
+
+var numberOfItemPurchased = 90
+var cost = numberOfItemPurchased *100
+var discount = 1/10
+
+if (numberOfItemPurchased < 10){
+    console.log ("Customer is off discount sales")
+}
+else {
+    console.log( discount * cost )
+}
