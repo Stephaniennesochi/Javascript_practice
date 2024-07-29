@@ -432,3 +432,9 @@ console.log('true' == true)
 console.log(false == 'false')
 console.log(null == '')
 console.log(!!"false" == !!"true")
+
+
+var myString = "I am a lovely girl"
+console.log(myString.lastIndexOf())
+mystr = myString.substring().toUpperCase(1)
+console.log(mystr)
