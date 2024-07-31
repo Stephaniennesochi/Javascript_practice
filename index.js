@@ -438,3 +438,9 @@ var myString = "I am a lovely girl"
 console.log(myString.lastIndexOf())
 mystr = myString.substring().toUpperCase(1)
 console.log(mystr)
+
+
+myNum = 24
+console.log(Number(myNum), (typeof(myNum)))
+console.log(String("2"), (typeof("2")))
+console.log(Boolean(true), (typeof(true)))
