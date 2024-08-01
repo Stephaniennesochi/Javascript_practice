@@ -444,3 +444,6 @@ myNum = 24
 console.log(Number(myNum), (typeof(myNum)))
 console.log(String("2"), (typeof("2")))
 console.log(Boolean(true), (typeof(true)))
+
+myString = "Daily"
+console.log(String(myString), typeof(myString))
