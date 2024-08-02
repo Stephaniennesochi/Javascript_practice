@@ -447,3 +447,16 @@ console.log(Boolean(true), (typeof(true)))
 
 myString = "Daily"
 console.log(String(myString), typeof(myString))
+console.log(Number(myString), typeof(myString))
+console.log(Boolean(myString), typeof(myString))
+
+myBoolean ="true"
+console.log(Boolean(myBoolean), typeof(myBoolean))
+console.log(Number(myBoolean), (typeof(myBoolean)))
+console.log(String(myBoolean), (typeof(myBoolean)))
+
+myBoolean = false
+console.log(Boolean(myBoolean), typeof(myBoolean))
+console.log(Number(myBoolean), (typeof(myBoolean)))
+console.log(String(myBoolean), (typeof(myBoolean)))
+
