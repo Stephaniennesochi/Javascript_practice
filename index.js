@@ -460,3 +460,6 @@ console.log(Boolean(myBoolean), typeof(myBoolean))
 console.log(Number(myBoolean), (typeof(myBoolean)))
 console.log(String(myBoolean), (typeof(myBoolean)))
 
+myVar = 25 + "real"
+console.log(myVar)
+console.log(typeof(myVar))
