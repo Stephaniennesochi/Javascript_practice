@@ -449,6 +449,8 @@ myString = "Daily"
 console.log(String(myString), typeof(myString))
 console.log(Number(myString), typeof(myString))
 console.log(Boolean(myString), typeof(myString))
+console.log(myString.length)
+console.log(myString.indexOf(2))
 
 myBoolean ="true"
 console.log(Boolean(myBoolean), typeof(myBoolean))
@@ -467,3 +469,4 @@ console.log(typeof(myVar))
 myVar = 25
 console.log(myVar)
 console.log(typeof(myVar))
+
