@@ -470,3 +470,8 @@ myVar = 25
 console.log(myVar)
 console.log(typeof(myVar))
 
+yVar = "real"
+console.log(myVar)
+console.log(typeof(myVar))
+
+
