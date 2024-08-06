@@ -499,3 +499,9 @@ switch(currentDay){
     case "Saturday":
         console.log("Today is Saturday")
 }
+
+console.log("I LOVE MY MOM")
+
+ var str = 'My Message'
+ console.log(str)
+ console.log(str.length)
