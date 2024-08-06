@@ -505,3 +505,5 @@ console.log("I LOVE MY MOM")
  var str = 'My Message'
  console.log(str)
  console.log(str.length)
+ console.log(str.split(","))
+console.log(str.toUpperCase(1))
