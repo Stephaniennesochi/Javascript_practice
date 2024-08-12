@@ -513,3 +513,10 @@ console.log(str.substring(3))
 console.log(str.trim(-6))
 console.log(parseFloat(str))
 console.log(parseInt(str))
+
+var number1 = 24
+
+if (num >= 0){
+console.log("postive number")}
+else
+console.log("Negative number")
