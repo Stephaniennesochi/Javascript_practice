@@ -520,3 +520,6 @@ if (num >= 0){
 console.log("postive number")}
 else
 console.log("Negative number")
+
+
+consoloe.log( str + myNum)
