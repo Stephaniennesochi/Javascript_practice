@@ -522,4 +522,16 @@ else
 console.log("Negative number")
 
 
-consoloe.log( str + myNum)
+
+
+let currentAmount = 100; 
+let depositValue = prompt('Enter amount to deposit:')
+console.log(depositValue)
+currentAmount += parseInt(depositValue)
+console.log(currentAmount)
+
+let withdrawalValue = prompt('Enter amount to withdraw:')
+//console.log(withdrawalValue)
+currentAmount -= parseInt(withdrawalValue)
+console.log(currentAmount)
+
