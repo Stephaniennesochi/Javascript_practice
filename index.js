@@ -535,3 +535,12 @@ let withdrawalValue = prompt('Enter amount to withdraw:')
 currentAmount -= parseInt(withdrawalValue)
 console.log(currentAmount)
 
+
+var discount = 0.1;
+numberOfItemPurchased = prompt("Enter number of items purchased:")
+amountOfEachItem = 200;
+if (numberOfItemPurchased > 10){
+console.log(numberOfItemPurchased * amountOfEachItem * discount)}
+else{
+console.log(numberOfItemPurchased * amountOfEachItem)
+}
