@@ -544,3 +544,8 @@ console.log(numberOfItemPurchased * amountOfEachItem * discount)}
 else{
 console.log(numberOfItemPurchased * amountOfEachItem)
 }
+
+var percentage = 0.07;
+amount = 49
+let total = percentage * amount
+console.log(total)
