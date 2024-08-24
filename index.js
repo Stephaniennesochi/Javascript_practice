@@ -549,3 +549,8 @@ var percentage = 0.07;
 amount = 49
 let total = percentage * amount
 console.log(total)
+
+var places = 3;
+var transport = 1500;
+transportPerPlace = places * transport;
+console.log(transportPerPlace)
