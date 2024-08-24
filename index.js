@@ -554,3 +554,7 @@ var places = 3;
 var transport = 1500;
 transportPerPlace = places * transport;
 console.log(transportPerPlace)
+
+var a =+ b++
+var b = 24
+console.log(a)
