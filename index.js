@@ -558,3 +558,7 @@ console.log(transportPerPlace)
 var a =+ b++
 var b = 24
 console.log(a)
+
+var i= 10
+i++;
+console.log(i)
