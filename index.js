@@ -562,3 +562,10 @@ console.log(a)
 var i= 10
 i++;
 console.log(i)
+
+var p = 12
+p++;
+a += 15
+
+console.log(p)
+console.log(a)
