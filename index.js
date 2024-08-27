@@ -565,7 +565,14 @@ console.log(i)
 
 var p = 12
 p++;
-a += 15
-
 console.log(p)
+var a = 25;
+console.log(a)
+a += 15
+console.log(a)
+a -= 16
+console.log(a)
+a *= 5
+console.log(a)
+a /= 5
 console.log(a)
