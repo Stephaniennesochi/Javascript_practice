@@ -576,3 +576,6 @@ a *= 5
 console.log(a)
 a /= 5
 console.log(a)
+
+var strNum = 'Steph' + 24;
+console.log(strNum)
