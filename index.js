@@ -579,3 +579,7 @@ console.log(a)
 
 var strNum = 'Steph' + 24;
 console.log(strNum)
+
+var stack
+stack = 64 + "First" + true + null;
+console.log(stack)
