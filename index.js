@@ -583,3 +583,10 @@ console.log(strNum)
 var stack
 stack = 64 + "First" + true + null;
 console.log(stack)
+
+let petVe = "Analyze" 
+console.log(parseInt(petVe))
+
+let theNum = 1000.59089
+console.log(parseFloat(theNum))
+console.log(theNum.toFixed(1))
