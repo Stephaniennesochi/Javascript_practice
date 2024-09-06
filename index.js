@@ -590,3 +590,8 @@ console.log(parseInt(petVe))
 let theNum = 1000.59089
 console.log(parseFloat(theNum))
 console.log(theNum.toFixed(1))
+
+let race = "Sophia"
+console.log(race)
+console.log(race.toUpperCase())
+console.log(race.split(""))
