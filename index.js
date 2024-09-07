@@ -595,3 +595,5 @@ let race = "Sophia"
 console.log(race)
 console.log(race.toUpperCase())
 console.log(race.split(""))
+console.log(race.indexOf(3))
+console.log(race.substring(5))
